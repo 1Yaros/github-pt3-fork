@@ -1,0 +1,21 @@
+# Carpetes de compilació
+bin/
+obj/
+
+# Fitxers específics d'IDE
+.vs/
+.vscode/
+.idea/
+
+# Fitxers temporals
+Thumbs.db
+ehthumbs.db
+
+# Fitxers de dependències de NuGet
+.nuget/
+
+# Extensions a ignorar
+*.user
+*.suo
+*.sln.docstates
+*.userosscache
