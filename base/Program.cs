@@ -12,7 +12,7 @@ class Program
         vehicle1.MostrarInformacio();
 
         // Crear un altre objecte Vehicle
-        Vehicle vehicle2 = new Vehicle("Mustang", "Ford", 1965, 220.0);
+        Vehicle vehicle2 = new Vehicle("Mustang", "Tesla", 1965, 220.0);
         
         // Mostrar la informació del segon vehicle
         vehicle2.MostrarInformacio();
