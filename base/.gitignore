@@ -19,3 +19,13 @@ ehthumbs.db
 *.suo
 *.sln.docstates
 *.userosscache
+
+# Ignorar claus públiques i privades
+id_rsa                  # Clau privada
+id_rsa.pub              # Clau pública
+
+id_rsa_gmail            # Clau privada
+id_rsa_gmail.pub        # Clau pública
+
+id_rsa_professor        # Clau privada
+id_rsa_professor.pub    # Clau pública
